@@ -1,0 +1,5 @@
+kernel.bin
+os-image.bin
+*.o
+
+kernel.elf
